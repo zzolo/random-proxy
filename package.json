@@ -2,7 +2,8 @@
   "name": "random-proxy",
   "version": "0.0.1",
   "dependencies": {
-    "express": "3.0.x"
+    "express": "3.0.x",
+    "request": "1.2.x"
   },
   "engines": {
     "node": "0.8.x",
